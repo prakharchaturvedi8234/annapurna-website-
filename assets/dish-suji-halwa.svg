@@ -1,0 +1,20 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Suji halwa illustration</title>
+<desc>An illustrated bowl of golden semolina halwa garnished with nuts and raisins.</desc>
+<circle cx="80" cy="80" r="76" fill="#FBF3E4"/>
+<ellipse cx="80" cy="98" rx="58" ry="30" fill="#D8CBB4"/>
+<ellipse cx="80" cy="94" rx="52" ry="26" fill="#D9A356"/>
+<ellipse cx="80" cy="90" rx="46" ry="21" fill="#E7B96C"/>
+<g fill="#8C5A28" opacity="0.5">
+  <path d="M60 88 h34" stroke="#8C5A28" stroke-width="2"/>
+  <path d="M70 96 h30" stroke="#8C5A28" stroke-width="2"/>
+  <path d="M92 84 h24" stroke="#8C5A28" stroke-width="2"/>
+</g>
+<g fill="#A63A2C">
+  <circle cx="66" cy="84" r="2.6"/><circle cx="96" cy="90" r="2.6"/><circle cx="86" cy="80" r="2.6"/>
+</g>
+<g fill="#F3E6B8">
+  <ellipse cx="74" cy="86" rx="5" ry="2.4" transform="rotate(-20 74 86)"/>
+  <ellipse cx="100" cy="82" rx="5" ry="2.4" transform="rotate(15 100 82)"/>
+</g>
+</svg>

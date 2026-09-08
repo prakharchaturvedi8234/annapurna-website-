@@ -1,0 +1,48 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Annapurna Kitchen logo</title>
+<desc>A warm, folk-art style illustration of Devi Annapurna smiling, wearing an orange and maroon saree, holding a spatula in one hand and a bowl of food in the other, with a golden halo behind her head.</desc>
+
+<circle cx="120" cy="120" r="118" fill="#FBF3E4"/>
+<circle cx="120" cy="120" r="112" fill="none" stroke="#A63A2C" stroke-width="3"/>
+
+<circle cx="120" cy="92" r="58" fill="#E3A72E" opacity="0.35"/>
+<g>
+  <line x1="120" y1="30" x2="120" y2="44" stroke="#E3A72E" stroke-width="4" stroke-linecap="round"/>
+  <line x1="164" y1="44" x2="155" y2="55" stroke="#E3A72E" stroke-width="4" stroke-linecap="round"/>
+  <line x1="76" y1="44" x2="85" y2="55" stroke="#E3A72E" stroke-width="4" stroke-linecap="round"/>
+  <line x1="184" y1="88" x2="170" y2="90" stroke="#E3A72E" stroke-width="4" stroke-linecap="round"/>
+  <line x1="56" y1="88" x2="70" y2="90" stroke="#E3A72E" stroke-width="4" stroke-linecap="round"/>
+</g>
+
+<path d="M78 232 C78 165 92 132 120 132 C148 132 162 165 162 232 Z" fill="#A63A2C"/>
+<path d="M78 232 C78 178 92 150 120 150 C148 150 162 178 162 232 Z" fill="#C2503A"/>
+<path d="M92 158 Q120 176 148 158 L148 172 Q120 190 92 172 Z" fill="#E3A72E"/>
+
+<circle cx="120" cy="98" r="38" fill="#F3C089"/>
+
+<path d="M82 92 C82 60 96 40 120 40 C144 40 158 60 158 92 C158 78 150 68 120 68 C90 68 82 78 82 92 Z" fill="#3A2417"/>
+<path d="M84 88 C84 100 88 110 92 116 L96 100 Z" fill="#3A2417"/>
+<path d="M156 88 C156 100 152 110 148 116 L144 100 Z" fill="#3A2417"/>
+
+<circle cx="106" cy="100" r="3.2" fill="#3A2417"/>
+<circle cx="134" cy="100" r="3.2" fill="#3A2417"/>
+<path d="M108 116 Q120 124 132 116" fill="none" stroke="#8C4A1E" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="120" cy="90" r="2.4" fill="#A63A2C"/>
+
+<g transform="rotate(-15 70 145)">
+  <rect x="64" y="128" width="9" height="50" rx="4.5" fill="#F3C089"/>
+  <rect x="64" y="120" width="7" height="44" rx="3.5" fill="#D9A356"/>
+  <rect x="50" y="96" width="34" height="26" rx="5" fill="#B0B0B0"/>
+  <rect x="50" y="96" width="34" height="26" rx="5" fill="none" stroke="#8C8C8C" stroke-width="1.5"/>
+</g>
+
+<g transform="rotate(20 168 150)">
+  <path d="M158 118 C150 128 150 145 160 158 L172 152 C166 142 166 128 172 120 Z" fill="#F3C089"/>
+</g>
+<ellipse cx="176" cy="158" rx="16" ry="10" fill="#8C4A1E"/>
+<ellipse cx="176" cy="155" rx="14" ry="7" fill="#E3A72E"/>
+<circle cx="171" cy="153" r="2" fill="#A63A2C"/>
+<circle cx="180" cy="156" r="2" fill="#4B6B3A"/>
+<circle cx="176" cy="151" r="2" fill="#A63A2C"/>
+
+</svg>

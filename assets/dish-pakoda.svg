@@ -1,0 +1,21 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Pakoda illustration</title>
+<desc>An illustrated plate of golden fried pakodas with green chutney and a lemon wedge.</desc>
+<circle cx="80" cy="80" r="76" fill="#FBF3E4"/>
+<ellipse cx="80" cy="98" rx="58" ry="28" fill="#D8CBB4"/>
+<ellipse cx="80" cy="94" rx="52" ry="24" fill="#FBF3E4"/>
+<g fill="#D9A356">
+  <ellipse cx="62" cy="88" rx="12" ry="10" transform="rotate(-10 62 88)"/>
+  <ellipse cx="86" cy="82" rx="11" ry="9" transform="rotate(8 86 82)"/>
+  <ellipse cx="106" cy="90" rx="12" ry="10" transform="rotate(-6 106 90)"/>
+  <ellipse cx="76" cy="100" rx="11" ry="9" transform="rotate(12 76 100)"/>
+</g>
+<g fill="#B87A34" opacity="0.5">
+  <circle cx="58" cy="85" r="1.6"/><circle cx="66" cy="91" r="1.6"/>
+  <circle cx="83" cy="79" r="1.6"/><circle cx="90" cy="85" r="1.6"/>
+  <circle cx="103" cy="87" r="1.6"/><circle cx="110" cy="93" r="1.6"/>
+</g>
+<circle cx="112" cy="70" r="8" fill="#4B6B3A"/>
+<circle cx="112" cy="70" r="8" fill="none" stroke="#3A5028" stroke-width="1"/>
+<path d="M42 76 A10 10 0 0 1 58 70 L46 82 Z" fill="#E3A72E"/>
+</svg>

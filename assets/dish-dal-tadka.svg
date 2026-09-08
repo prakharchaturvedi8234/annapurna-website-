@@ -1,0 +1,17 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Dal tadka illustration</title>
+<desc>An illustrated bowl of yellow dal tadka with a tempering of mustard seeds, curry leaves, and red chilli, with steam rising.</desc>
+<circle cx="80" cy="80" r="76" fill="#FBF3E4"/>
+<ellipse cx="80" cy="98" rx="58" ry="30" fill="#D8CBB4"/>
+<ellipse cx="80" cy="94" rx="52" ry="26" fill="#F0C349"/>
+<ellipse cx="80" cy="90" rx="46" ry="21" fill="#F3D06E"/>
+<g fill="#8C5A28">
+  <circle cx="66" cy="86" r="2.2"/><circle cx="74" cy="90" r="2.2"/><circle cx="90" cy="84" r="2.2"/><circle cx="98" cy="92" r="2.2"/><circle cx="82" cy="80" r="2.2"/>
+</g>
+<path d="M62 82 Q70 76 78 82" fill="none" stroke="#4B6B3A" stroke-width="3" stroke-linecap="round"/>
+<path d="M96 86 Q104 80 110 86" fill="none" stroke="#4B6B3A" stroke-width="3" stroke-linecap="round"/>
+<path d="M84 92 L92 78 L90 92 Z" fill="#A63A2C"/>
+<path d="M64 52 Q68 42 64 34" fill="none" stroke="#D8CBB4" stroke-width="2.5" stroke-linecap="round" opacity="0.75"/>
+<path d="M88 48 Q92 38 88 30" fill="none" stroke="#D8CBB4" stroke-width="2.5" stroke-linecap="round" opacity="0.75"/>
+<path d="M108 54 Q112 44 108 36" fill="none" stroke="#D8CBB4" stroke-width="2.5" stroke-linecap="round" opacity="0.75"/>
+</svg>

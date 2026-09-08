@@ -1,0 +1,20 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Aloo Gobhi illustration</title>
+<desc>An illustrated bowl of aloo gobhi with golden potato pieces and cauliflower florets, garnished with herbs.</desc>
+<circle cx="80" cy="80" r="76" fill="#FBF3E4"/>
+<ellipse cx="80" cy="96" rx="58" ry="30" fill="#D8CBB4"/>
+<ellipse cx="80" cy="92" rx="52" ry="26" fill="#E3A72E"/>
+<circle cx="58" cy="86" r="12" fill="#F0D9A0"/>
+<circle cx="76" cy="94" r="10" fill="#F0D9A0"/>
+<circle cx="96" cy="84" r="11" fill="#F0D9A0"/>
+<g fill="#F7F1E3">
+  <circle cx="68" cy="78" r="8"/><circle cx="76" cy="72" r="6"/><circle cx="84" cy="79" r="7"/>
+  <circle cx="100" cy="96" r="8"/><circle cx="108" cy="88" r="6"/>
+</g>
+<g fill="#4B6B3A">
+  <circle cx="62" cy="70" r="2"/><circle cx="90" cy="68" r="2"/><circle cx="112" cy="78" r="2"/><circle cx="72" cy="100" r="2"/>
+</g>
+<path d="M56 58 Q60 48 56 40" fill="none" stroke="#D8CBB4" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+<path d="M80 54 Q84 44 80 36" fill="none" stroke="#D8CBB4" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+<path d="M104 58 Q108 48 104 40" fill="none" stroke="#D8CBB4" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+</svg>

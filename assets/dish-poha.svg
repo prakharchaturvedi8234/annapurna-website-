@@ -1,0 +1,19 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Poha illustration</title>
+<desc>An illustrated bowl of yellow poha with peas, mustard seeds, curry leaves, and a lemon wedge.</desc>
+<circle cx="80" cy="80" r="76" fill="#FBF3E4"/>
+<ellipse cx="80" cy="98" rx="58" ry="30" fill="#D8CBB4"/>
+<ellipse cx="80" cy="94" rx="52" ry="26" fill="#F3D06E"/>
+<g fill="#F7E6A0">
+  <ellipse cx="66" cy="88" rx="5" ry="2.2" transform="rotate(20 66 88)"/>
+  <ellipse cx="80" cy="82" rx="5" ry="2.2" transform="rotate(-15 80 82)"/>
+  <ellipse cx="96" cy="90" rx="5" ry="2.2" transform="rotate(10 96 90)"/>
+  <ellipse cx="72" cy="96" rx="5" ry="2.2" transform="rotate(-25 72 96)"/>
+  <ellipse cx="102" cy="82" rx="5" ry="2.2" transform="rotate(18 102 82)"/>
+</g>
+<g fill="#4B6B3A">
+  <circle cx="70" cy="82" r="2.6"/><circle cx="88" cy="88" r="2.6"/><circle cx="98" cy="76" r="2.6"/>
+</g>
+<path d="M60 78 Q66 72 74 78" fill="none" stroke="#3A5028" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M42 76 A10 10 0 0 1 58 70 L46 82 Z" fill="#E3A72E"/>
+</svg>
